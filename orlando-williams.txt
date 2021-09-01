@@ -1,4 +1,4 @@
-linked to finish codepen: 
+linked to finish codepen: https://codepen.io/nowaiihozay/pen/RwgaWaG
 
 1. What is Semantic HTML? 
     The use of html markup to reinforce the semantics, or meaning.
@@ -19,7 +19,7 @@ linked to finish codepen:
     9. How many times can I use the same id on a page? 
     Once
     10. What is a class? 
-
+    A defined subject to create an object
     11. What elements can I add a class to? 
     div elements
     12. How many times can I use the same class on a page? 
